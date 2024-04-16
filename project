@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>My Resume</title>
+    <style>
+        h1 {
+         font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <img src="/assets/8418114dfd9d0ac156eb0c79f0f38a51.JPG" height="400" width="400" />
+    <h1>Edwin Ebubechukwu Prince</h1>
+    <hr />
+    <h3>SUMMARY OF PROFILE</h3>
+    <p>
+Seeking a Web Developer position with ABC Company where I can use my expertise in HTML, CSS, JavaScript, and PHP to create high-performing websites.”
+“Motivated Web Developer looking to leverage 5+ years of experience in creating responsive designs and optimizing website performance at XYZ Company.”
+Creativity and Collaboration. To work as a Web Developer for an innovative company that allows me to utilize my technical skills and knowledge.”
+“Seeking a Web Developer role in an organization that values creativity and encourages collaboration.”
+    </p>
+    <hr />
+    <h3>ACADEMIC EDUCATION</h3>
+    <ol type="A">
+        <li><h4>B.A History and Strategic studies, 2021</h4></li>
+        <ul>
+            <li>Alex Ekwueme Federal University Ndufe Alike Ikwo, Ebonyi state</li>
+        </ul>
+        <li><h4>Secondary School Leaving Certificate</h4></li>
+        <ul>
+            <li>Bethel Comprehensive Secondary School</li>
+        </ul>
+    </ol>
+    <hr />
+   <h3>PROFESSIONAL DEVELOPMENT/CERTIFICATION</h3>
+    <ol type="A">
+        <li><h4>Professional Certification in Human Resource Management CHRP, July 2022</h4></li>
+        <ul>
+            <li>Rahn Wesley Institute of Management</li>
+        </ul>
+        <li><h4>Professional Certificate in Leadership and Management</h4></li>
+        <ul>
+            <li>Pan African Institute</li>
+        </ul>
+        <li><h4>Professional Certificate in Business Development Management</h4></li>
+        <ul>
+            <li>Pan African Institute</li>
+        </ul>
+    </ol>
+    <hr />
+    <h3>WORK RELATED SKILLS AND KNOWLEDGE</h3>
+    <ol type="A">
+        <li><h4>Human Resource/Talent Management</h4></li>
+        <ul>
+            <li>Developing and improving existing HR procedure and process</li>
+            <li>Setting up and maintenance of client and candidate database</li>
+            <li>Conducting interview with job applicants, asking relevant questions</li>
+            <li>Setting up strategic plan on improving employees motivations and retention</li>
+        </ul>
+        <li><h4>Business Development and Growth</h4></li>
+        <ul>
+            <li>Mentor Local personnel on best practices and protocol to maximize growth</li>
+            <li>To direct marketing project through conceptual planning, schedule management and final implementation</li>
+        </ul>
+        <li><h4>Management Improvement Trainee</h4></li>
+        <ul>
+            <li>Assist in organizing and overseeing assignments to drive operational excellence</li>
+            <li>Set aggressive target for employees to drive company success and strengthen motivations</li>
+            <li>Established team priorities, maintain schedules and monitored performance</li>
+        </ul>
+    </ol>
+    <hr />
+    <h3>WORK EXPERIENCE</h3>
+    <ol type="A">
+        <li><h4>Independent National Electoral Commission,<br /> </h4></li>
+        <ul>
+            <li>National Youth Service corps 2021-2023</li>
+        </ul>
+        <li><h4>Direct Responsibilities and Contribution:</h4></li>
+        <ol type="1">
+            <li>provided backup to front desk to step in to assist with various tasks whenever employees was absent</li>
+            <li>Supervised political party's primary with team members, and provided constructive feedback through report</li>
+            <li>Organizing Voter's Education</li>
+            <li>Evaluated employees strength and assigned tasks based upon experience and training</li>
+        </ol>
+    </ol>
+    <hr />
+    <h3>INTEREST</h3>
+    <ul>
+        <li>Management</li>
+        <li>Human & personnel relationship</li>
+        <li>Standardization and meeting requirement</li>
+        <li>Striking balance between firm goal and employees' satisfaction</li>
+        <li>Setting new challenges and leading the charges</li>
+    </ul>
+    <hr />
+    <h3>HOBBY AND PERSONAL OBSESSION</h3>
+    <ul>
+        <li>Football, Music, Socializing, Debating</li>
+    </ul>
+    <hr />
+    <a href="/public/contact.html">Contact Me</a>
+    <a href="/public/about.html">About Me</a>
+</body>
+</html>
